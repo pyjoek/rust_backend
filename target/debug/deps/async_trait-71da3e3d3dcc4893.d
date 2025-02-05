@@ -1,0 +1,12 @@
+/home/dragon/Documents/Rust/exercise/target/debug/deps/libasync_trait-71da3e3d3dcc4893.so: /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lib.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/args.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/bound.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/expand.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lifetime.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/parse.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/receiver.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/verbatim.rs
+
+/home/dragon/Documents/Rust/exercise/target/debug/deps/async_trait-71da3e3d3dcc4893.d: /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lib.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/args.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/bound.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/expand.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lifetime.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/parse.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/receiver.rs /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/verbatim.rs
+
+/home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lib.rs:
+/home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/args.rs:
+/home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/bound.rs:
+/home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/expand.rs:
+/home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/lifetime.rs:
+/home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/parse.rs:
+/home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/receiver.rs:
+/home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/async-trait-0.1.86/src/verbatim.rs:
