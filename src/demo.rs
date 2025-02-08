@@ -32,14 +32,14 @@ fn main() {
 //     println!("{}", even[3]);
 // }
 
-// use std::io;
-// fn main() {
-//     let numbers = [1,2,3,4,5];
-//     println!("Enter index number:");
+use std::io;
+fn main() {
+    let numbers = [1,2,3,4,5];
+    println!("Enter index number:");
 
-//     let mut guest = String::new();
-//     io::stdin().read_line(&mut guest).expect("failed to read line");
-//     let index: usize = guest.trim().parse().expect("invalid number");
-//     println!("The index of {} in the list is {}", guest, numbers[index]);
-// }
+    let mut guest = String::new();
+    io::stdin().read_line(&mut guest).expect("failed to read line");
+    let index: usize = guest.trim().parse().expect("invalid number");
+    println!("The index of {} in the list is {}", guest, numbers[index]);
+}
 
