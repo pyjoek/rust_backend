@@ -1,33 +1,21 @@
-#[macro_use] extern crate rocket;
-
-use rocket::serde::{Serialize, Deserialize, json::Json};
-
-#[derive(Serialize)]
-struct Message {
-    message: String
+struct Bank {
+    owner: String,
+    balance: f64
 }
 
-#[derive(Deserialize)]
-struct CreateMessage {
-    name: String
-}
-
-#[get("/")]
-fn root() -> Json<Message> {
-    Json(Message {
-        message: "Hello server testing".to_string()
+impl Bank {
+    fn checkBalance(&self) {
+        println!("Current Balance is {}",self.balance)
     }
-    )
 }
 
-#[post("/add", format = "json", data = "<data>")]
-fn create(data: Json<CreateMessage>) -> Json<Message> {
-    Json(Message{
-        message: format!("Recieved: {}", data.name)
-    })
-}
+fn main() {
+    let account = Bank {
+        owner: "Joel".to_string(),
+        balance: 2400.00
+    };
 
-#[launch]
-fn rocket() -> _ {
-    rocket::build().mount("/", routes![root, create])
+    let balan = &account.checkBalance();
+
+    println!("Owner {}, Current balance is {:?}", account.owner, balan);
 }

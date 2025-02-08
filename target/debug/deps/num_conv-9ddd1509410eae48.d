@@ -1,0 +1,7 @@
+/home/dragon/Documents/Rust/exercise/target/debug/deps/libnum_conv-9ddd1509410eae48.rmeta: /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-conv-0.1.0/src/lib.rs
+
+/home/dragon/Documents/Rust/exercise/target/debug/deps/libnum_conv-9ddd1509410eae48.rlib: /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-conv-0.1.0/src/lib.rs
+
+/home/dragon/Documents/Rust/exercise/target/debug/deps/num_conv-9ddd1509410eae48.d: /home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-conv-0.1.0/src/lib.rs
+
+/home/dragon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-conv-0.1.0/src/lib.rs:
