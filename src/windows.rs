@@ -1,7 +1,5 @@
-mod linux;
-use linux::unix::hello;
-
-fn main() {
-    let hi = hello();
-    println!("{:?}", hi);
+pub mod windows {
+    pub fn mine() {
+        println!("Hello from windows");
+    }
 }

@@ -1,5 +1,5 @@
-pub mod unix {
-    pub fn hello() {
-        println!("Hello world from linux file");
-    }
+use crate::windows::mine;
+
+fn main() {
+    mine();
 }

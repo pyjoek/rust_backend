@@ -6,7 +6,8 @@ fn main() {
     for i in 1..11 {
         total += i;
     }
-    println!("TOtal of 100 number s is {}", total);
+    
+    println!("Total of 100 number s is {}", total);
     println!("THe current time is{:?}", Instant::now())
 
 }

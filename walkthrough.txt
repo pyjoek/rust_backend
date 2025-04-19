@@ -1,3 +1,0 @@
-vatiables & mutability
-conditions
-loop
